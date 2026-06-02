@@ -1,0 +1,45 @@
+#buy{
+    color: white;
+}
+#buy:hover{
+    background-color: none;
+    border: solid 1px #60a5fa;
+    /* #dbeafe */
+}
+#buy:active{
+    color: white;
+    border: none;
+    background-color: #000000;
+}
+#buybg {
+    background-color: #60a5fa;
+    color: white;
+    border: none;
+}
+#newsletter1::placeholder {
+    color: white;
+    opacity: 1;
+}
+#buybg:hover{
+    background-color: none;
+    /* #dbeafe */
+}
+#buybg:active{
+    color: white;
+    border: none;
+    opacity: 50%;
+}
+#text:hover{
+    opacity: 75%;
+}
+#text{
+    color: white;
+}
+.dropdown-item:hover {
+    background-color: white;
+    opacity: 75%;
+}
+.dropdown-item:active {
+    color: white;
+    background-color: #000000;
+}

@@ -1,0 +1,51 @@
+body{
+	background-color: lightpink;
+}
+.wrapper{
+	width: 400px;
+	margin: 135px auto 0 auto;
+	background-color: darkgrey;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	border: 5px solid #003838;
+	border-radius: 10px;
+
+}
+.container{
+	width: 90%;
+	margin: 5px auto;
+
+}
+#div-judul{
+	border-bottom: 2px solid white;
+}
+#judul-form{
+	color: black;
+	font-size: 18pt;
+}
+.div_input{
+	width: 100%;
+	margin: 15px auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+
+}
+.input{
+	width: 100%;
+	height: 45px;
+	background-color: greenyellow;
+	border: 1px solid white;
+	color: white;
+	font-size: 10pt;
+	padding: 2px;
+
+}
+#div-login{
+	justify-content: flex-start;
+	padding-bottom: 25px;
+
+}
